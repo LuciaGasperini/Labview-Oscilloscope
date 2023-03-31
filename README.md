@@ -4,3 +4,9 @@ The internship was conducted in the period between March 2022 and June 2022, for
 
 The purpose of the activity was to acquire the skills and abilities to ensure the use and mastery of the LabView software in order to create a graphical interface for controlling instruments.
 The instrumentation used was a function generator in the DG1022z model by Rigol and an oscilloscope in the MSO58 model by Tektronix.
+
+In the oscilloscope, via software, it must be possible:
+  - change the time scale (horizontal axis)
+  - modify the voltage scale (vertical axis)
+  - determine the acquisition mode (continuous or one shot) - configure the trigger
+  - transfer the sequence of acquired points to file.
