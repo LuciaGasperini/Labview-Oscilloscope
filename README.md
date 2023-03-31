@@ -10,3 +10,17 @@ In the oscilloscope, via software, it must be possible:
   - modify the voltage scale (vertical axis)
   - determine the acquisition mode (continuous or one shot) - configure the trigger
   - transfer the sequence of acquired points to file.
+
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/129273567/229077496-5385a1c9-da8c-4940-9d2a-75f2dbc03178.png">
+
+
+In the function generator, via software, it must be possible:
+  - select the type of waveform function
+  - modify the amplitude
+  - modify the DC offset
+  - modify the frequency
+  - enable the different output channels
+
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/129273567/229077625-b2227863-a0cb-4aca-af41-318a5e07bbd9.png">
+
+
